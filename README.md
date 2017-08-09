@@ -1,2 +1,2 @@
 # XOR-NN
-XOR implementation with neural network with TensorFlow 
+XOR implementation with neural network and TensorFlow 
